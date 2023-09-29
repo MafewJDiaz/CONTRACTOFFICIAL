@@ -17,6 +17,7 @@
 - MATTHEW DIAZ: ARDUINO, PROCESSING, SHELL, SCRATCH
 
 ## RESOLVING CONLFICT
+- VOTE
 - ROCK PAPER SCISSORS
 - THE WHEEL
 
@@ -27,6 +28,8 @@
 
 FOR ANY CONCERNS AND CAN NOT REACH OUT BY PHONE, COMMENT HERE: (https://jamboard.google.com/d/1CzuBBFoH3hA_wJIG8dcg-Hw8Ad4hYLGX81oRTsj3Bys/viewer?f=1).
 
-## Signatures
+## SIGNATURES
 
-![picture agree](https://i.kym-cdn.com/photos/images/newsfeed/002/652/421/280.jpg)
+![smurf cat](https://i.kym-cdn.com/photos/images/newsfeed/002/652/421/280.jpg)
+
+![screenshot](unnamed.jpg)
